@@ -1,0 +1,1 @@
+This project focuses on helping online sellers set appropriate prices for their products. It employs three different regression models—Linear Regression, RandomForestRegressor, and XGBRegressor—to make price recommendations. Each model's performance is evaluated using the R2 score, providing insights into their effectiveness in price prediction.
